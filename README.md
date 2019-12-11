@@ -1,6 +1,6 @@
 # SN-Landing-Page    
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+### DEMO is [here](https://nordicgiant2.github.io/snlp-page/)
 
 ![img](https://github.com/nordicgiant2/sn-landing-page/blob/master/image/01.jpg?raw=true)
 
@@ -15,7 +15,7 @@
 ### 2. Run the project
 ```shell
 npm i
-npm run dev
+npm start
 ```
 
 ### 3. BUild
